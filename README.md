@@ -1,5 +1,7 @@
 # Event Horizon
 
+![Event Horizon ASCII animation: a glowing accretion disk and photon ring against a starfield](docs/screenshot.png)
+
 `blackhole.dur` is a seamless procedural ASCII animation in Ly-compatible Durdraw v7 format
 (gzip-compressed JSON): 400 columns × 120 rows, 96 frames, 16 fps, 6 seconds.
 Uses the terminal's 256-color palette on black; no Unicode art characters.
